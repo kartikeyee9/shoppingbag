@@ -1,10 +1,10 @@
-2406 Assignment 3
 
 
 
-Assignment is done by: 
-	1. Kartikeyee Gurav - 101081111; kartikeyeegurav@cmail.carleton.ca
-	2. Harleen Pabla - 101079985; harleenpabla@cmail.carleton.ca
+
+Project done by: 
+	1. Kartikeyee Gurav 
+	2. Harleen Pabla 
 
 
 
@@ -31,4 +31,6 @@ Once the player leaves the game, they are no longer registered to play.
 To restart the game:
 	1. Kill the running server. 
 	2. Run the server again and copy the URL on the respective browsers again.
+	
+
 
